@@ -33,4 +33,17 @@ Before this I spent 6+ years shipping production systems end-to-end across enter
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
+### Selected Projects
+
+Public case studies covering the architecture, features, and my role. The source code is private and remains the property of the respective company or client.
+
+- [Sphere Education Platform](https://github.com/devbilalz/sphere-education-platform-showcase) - cohort-based live learning platform (Rails API + React student portal)
+- [GTM Automation Platform](https://github.com/devbilalz/gtm-automation-platform-showcase) - GPT-4 pipeline that turns sales calls into Salesforce field suggestions
+- [Sales Tax Engine](https://github.com/devbilalz/sales-tax-engine-showcase) - multi-jurisdiction sales tax and compliance (Django + Next.js)
+- [Airbyte Connector Generator](https://github.com/devbilalz/airbyte-connector-generator-showcase) - serverless docs-to-connector generation (AWS Lambda + Pinecone)
+- [Browser Web Agent](https://github.com/devbilalz/browser-web-agent-showcase) - Chrome extension + FastAPI agent for in-browser automation
+- [AI Reference Platform](https://github.com/devbilalz/ai-reference-platform-showcase) - natural-language querying over CRM and databases (Rails/Django + React)
+
+---
+
 > Most of my strongest work (LLM training infrastructure, client platforms) lives in private / NDA-protected repos. My [portfolio](https://bilalzahid.vercel.app) breaks the systems down as detailed case files - the architecture, tradeoffs, and results, generalized for public sharing.
