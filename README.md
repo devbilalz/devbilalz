@@ -33,9 +33,9 @@ Backed by 6+ years shipping production systems end-to-end across enterprise SaaS
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### Selected Projects
+### Projects
 
-Public case studies covering the architecture, features, and technology of each project. Source code is private (proprietary and under NDA). All case studies live in one repo: **[devbilalz/projects](https://github.com/devbilalz/projects)**
+Case studies for private / NDA work (architecture, features, and tech - source code not public), plus open source repos with full code. All case studies live in one repo: **[devbilalz/projects](https://github.com/devbilalz/projects)**
 
 **AI, labs & integrations**
 
@@ -65,9 +65,7 @@ Public case studies covering the architecture, features, and technology of each 
 - [Git Contribution Generator](https://github.com/devbilalz/projects/tree/master/git-contribution-generator) - Node.js CLI experiment scripting dated git commits
 - [Git History Backfill](https://github.com/devbilalz/projects/tree/master/git-history-backfill) - Node.js experiment for schedule-driven backdated commits
 
-### Personal Projects
-
-Public repos with full source code - demos, experiments, and standalone tools.
+**Open source (public code)**
 
 - [google-maps-api-simulator](https://github.com/devbilalz/google-maps-api-simulator) - in-memory simulator for Google Maps Places-style APIs for agents and automated testing (Python)
 - [nextjs-audio-samples-demo](https://github.com/devbilalz/nextjs-audio-samples-demo) - Next.js 15 app that server-fetches sample audio metadata and renders a playable table
