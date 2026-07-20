@@ -8,16 +8,16 @@
 
 ---
 
-I build the infrastructure that lets large language models **practice, be tested, and be trusted** with real-world tool use - before that behavior ever reaches a live account.
+Building the infrastructure that lets large language models **practice, be tested, and be trusted** with real-world tool use - before that behavior ever reaches a live account.
 
-At **Turing (on Google's services)**, I engineer the training and evaluation infrastructure behind **Gemini's** agentic capabilities:
+At **Turing (on Google's services)**, engineering the training and evaluation infrastructure behind **Gemini's** agentic capabilities:
 
 - A simulated environment spanning **77 real-world services** where Gemini learns multi-turn tool use
 - A multi-stage **function-calling validation framework** that catches contract defects standard GenAI SDKs accept silently
-- **DBGen**, a synthetic world-generation engine that turns a one-paragraph brief into a schema-exact training world + grading rubric
+- **DBGe a synthetic world-generation engine that turns a one-paragraph brief into a schema-exact training world + grading rubric
 - An adversarial **benchmark suite** that evaluates Gemini alongside GPT and Claude under identical conditions
 
-Before this I spent 6+ years shipping production systems end-to-end across enterprise SaaS and healthcare (Sphere, Duett.io, JoinReflect).
+Backed by 6+ years shipping production systems end-to-end across enterprise SaaS and healthcare (Sphere, Duett.io, JoinReflect).
 
 ### Focus
 `Agentic AI` · `LLM Evaluation` · `Synthetic Data` · `RLHF / SFT` · `Distributed Systems` · `Platform Engineering`
@@ -28,14 +28,14 @@ Before this I spent 6+ years shipping production systems end-to-end across enter
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Nex000000?style=flat&logo=nextdotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### Selected Projects
 
-Public case studies covering the architecture, features, and my role. The source code is private and remains the property of the respective company or client.
+Public case studies covering the architecture, features, and technology of each project. Source code is private (proprietary and under NDA).
 
 - [Sphere Education Platform](https://github.com/devbilalz/sphere-education-platform-showcase) - cohort-based live learning platform (Rails API + React student portal)
 - [GTM Automation Platform](https://github.com/devbilalz/gtm-automation-platform-showcase) - GPT-4 pipeline that turns sales calls into Salesforce field suggestions
@@ -46,4 +46,4 @@ Public case studies covering the architecture, features, and my role. The source
 
 ---
 
-> Most of my strongest work (LLM training infrastructure, client platforms) lives in private / NDA-protected repos. My [portfolio](https://bilalzahid.vercel.app) breaks the systems down as detailed case files - the architecture, tradeoffs, and results, generalized for public sharing.
+> Much of the strongest work (LLM training infrastructure, client platforms) lives in private / NDA-protected repos. The [portfolio](https://bilalzahid.vercel.app) breaks the systems down as detailed case files - the architecture, tradeoffs, and results, generalized for public sharing.
