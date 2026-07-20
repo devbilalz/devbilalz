@@ -45,6 +45,10 @@ All case studies live in one repo: **[devbilalz/projects](https://github.com/dev
 - [Airbyte Connector Generator](https://github.com/devbilalz/projects/tree/master/airbyte-connector-generator) - serverless docs-to-connector generation (AWS Lambda + Pinecone)
 - [Browser Web Agent](https://github.com/devbilalz/projects/tree/master/browser-web-agent) - Chrome extension + FastAPI agent for in-browser automation
 - [AI Reference Platform](https://github.com/devbilalz/projects/tree/master/ai-reference-platform) - natural-language querying over CRM and databases (Rails/Django + React)
+- [Reflect Therapy Platform](https://github.com/devbilalz/projects/tree/master/reflect-therapy-platform) - therapy practice-management: matching, billing, payouts, reporting (Rails)
+- [AISF Content Plugin](https://github.com/devbilalz/projects/tree/master/aisf-content-plugin) - content-subscription product with a ChatGPT plugin surface (FastAPI + Next.js)
+
+Plus AI labs, integrations, and experiments (transcript insights, Meta SAM UI, Zoom app, audio capture) - see [devbilalz/projects](https://github.com/devbilalz/projects).
 
 ### Personal Projects
 
