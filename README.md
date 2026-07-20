@@ -14,7 +14,7 @@ At **Turing (on Google's services)**, engineering the training and evaluation in
 
 - A simulated environment spanning **77 real-world services** where Gemini learns multi-turn tool use
 - A multi-stage **function-calling validation framework** that catches contract defects standard GenAI SDKs accept silently
-- **DBGe a synthetic world-generation engine that turns a one-paragraph brief into a schema-exact training world + grading rubric
+- **DBGen**, a synthetic world-generation engine that turns a one-paragraph brief into a schema-exact training world + grading rubric
 - An adversarial **benchmark suite** that evaluates Gemini alongside GPT and Claude under identical conditions
 
 Backed by 6+ years shipping production systems end-to-end across enterprise SaaS and healthcare (Sphere, Duett.io, JoinReflect).
@@ -28,7 +28,7 @@ Backed by 6+ years shipping production systems end-to-end across enterprise SaaS
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Nex000000?style=flat&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -45,6 +45,15 @@ All case studies live in one repo: **[devbilalz/projects](https://github.com/dev
 - [Airbyte Connector Generator](https://github.com/devbilalz/projects/tree/master/airbyte-connector-generator) - serverless docs-to-connector generation (AWS Lambda + Pinecone)
 - [Browser Web Agent](https://github.com/devbilalz/projects/tree/master/browser-web-agent) - Chrome extension + FastAPI agent for in-browser automation
 - [AI Reference Platform](https://github.com/devbilalz/projects/tree/master/ai-reference-platform) - natural-language querying over CRM and databases (Rails/Django + React)
+
+### Open Source
+
+Public repos with full source code - demos and standalone tools.
+
+- [google-maps-api-simulator](https://github.com/devbilalz/google-maps-api-simulator) - in-memory simulator for Google Maps Places-style APIs for agents and automated testing (Python)
+- [nextjs-audio-samples-demo](https://github.com/devbilalz/nextjs-audio-samples-demo) - Next.js 15 app that server-fetches sample audio metadata and renders a playable table
+- [burger-builder](https://github.com/devbilalz/burger-builder) - interactive React demo for customizing and ordering a virtual burger
+- [bilal-ai-lab](https://github.com/devbilalz/bilal-ai-lab) - portfolio site (Next.js)
 
 ---
 
