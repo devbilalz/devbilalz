@@ -46,9 +46,9 @@ All case studies live in one repo: **[devbilalz/projects](https://github.com/dev
 - [Browser Web Agent](https://github.com/devbilalz/projects/tree/master/browser-web-agent) - Chrome extension + FastAPI agent for in-browser automation
 - [AI Reference Platform](https://github.com/devbilalz/projects/tree/master/ai-reference-platform) - natural-language querying over CRM and databases (Rails/Django + React)
 
-### Open Source
+### Personal Projects
 
-Public repos with full source code - demos and standalone tools.
+Public repos with full source code - demos, experiments, and standalone tools.
 
 - [google-maps-api-simulator](https://github.com/devbilalz/google-maps-api-simulator) - in-memory simulator for Google Maps Places-style APIs for agents and automated testing (Python)
 - [nextjs-audio-samples-demo](https://github.com/devbilalz/nextjs-audio-samples-demo) - Next.js 15 app that server-fetches sample audio metadata and renders a playable table
