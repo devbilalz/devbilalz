@@ -37,12 +37,14 @@ Backed by 6+ years shipping production systems end-to-end across enterprise SaaS
 
 Public case studies covering the architecture, features, and technology of each project. Source code is private (proprietary and under NDA).
 
-- [Sphere Education Platform](https://github.com/devbilalz/sphere-education-platform-showcase) - cohort-based live learning platform (Rails API + React student portal)
-- [GTM Automation Platform](https://github.com/devbilalz/gtm-automation-platform-showcase) - GPT-4 pipeline that turns sales calls into Salesforce field suggestions
-- [Sales Tax Engine](https://github.com/devbilalz/sales-tax-engine-showcase) - multi-jurisdiction sales tax and compliance (Django + Next.js)
-- [Airbyte Connector Generator](https://github.com/devbilalz/airbyte-connector-generator-showcase) - serverless docs-to-connector generation (AWS Lambda + Pinecone)
-- [Browser Web Agent](https://github.com/devbilalz/browser-web-agent-showcase) - Chrome extension + FastAPI agent for in-browser automation
-- [AI Reference Platform](https://github.com/devbilalz/ai-reference-platform-showcase) - natural-language querying over CRM and databases (Rails/Django + React)
+All case studies live in one repo: **[devbilalz/projects](https://github.com/devbilalz/projects)**
+
+- [Sphere Education Platform](https://github.com/devbilalz/projects/tree/master/sphere-education-platform) - cohort-based live learning platform (Rails API + React student portal)
+- [GTM Automation Platform](https://github.com/devbilalz/projects/tree/master/gtm-automation-platform) - GPT-4 pipeline that turns sales calls into Salesforce field suggestions
+- [Sales Tax Engine](https://github.com/devbilalz/projects/tree/master/sales-tax-engine) - multi-jurisdiction sales tax and compliance (Django + Next.js)
+- [Airbyte Connector Generator](https://github.com/devbilalz/projects/tree/master/airbyte-connector-generator) - serverless docs-to-connector generation (AWS Lambda + Pinecone)
+- [Browser Web Agent](https://github.com/devbilalz/projects/tree/master/browser-web-agent) - Chrome extension + FastAPI agent for in-browser automation
+- [AI Reference Platform](https://github.com/devbilalz/projects/tree/master/ai-reference-platform) - natural-language querying over CRM and databases (Rails/Django + React)
 
 ---
 
