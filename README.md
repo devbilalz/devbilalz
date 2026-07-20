@@ -35,9 +35,17 @@ Backed by 6+ years shipping production systems end-to-end across enterprise SaaS
 
 ### Selected Projects
 
-Public case studies covering the architecture, features, and technology of each project. Source code is private (proprietary and under NDA).
+Public case studies covering the architecture, features, and technology of each project. Source code is private (proprietary and under NDA). All case studies live in one repo: **[devbilalz/projects](https://github.com/devbilalz/projects)**
 
-All case studies live in one repo: **[devbilalz/projects](https://github.com/devbilalz/projects)**
+**AI, labs & integrations**
+
+- [Call Transcript Insights Lab](https://github.com/devbilalz/projects/tree/master/call-transcript-insights-lab) - hybrid RAG harness for accurate, cheap, fast transcript insight extraction
+- [API Schema Retriever](https://github.com/devbilalz/projects/tree/master/api-schema-retriever) - FastAPI + LLM engine that scrapes API docs and generates low-code connectors
+- [Segment Anything Bulk UI](https://github.com/devbilalz/projects/tree/master/segment-anything-bulk-ui) - React/TypeScript UI for bulk Meta SAM image segmentation
+- [Zoom Session Timestamps App](https://github.com/devbilalz/projects/tree/master/zoom-session-timestamps) - embedded Zoom app for OAuth + in-meeting timestamp capture (Next.js)
+- [Audio Capture Prototype](https://github.com/devbilalz/projects/tree/master/audio-capture) - browser audio capture + transcription spike (Web Speech API + Whisper)
+
+**Platforms & products**
 
 - [Sphere Education Platform](https://github.com/devbilalz/projects/tree/master/sphere-education-platform) - cohort-based live learning platform (Rails API + React student portal)
 - [GTM Automation Platform](https://github.com/devbilalz/projects/tree/master/gtm-automation-platform) - GPT-4 pipeline that turns sales calls into Salesforce field suggestions
@@ -48,7 +56,14 @@ All case studies live in one repo: **[devbilalz/projects](https://github.com/dev
 - [Reflect Therapy Platform](https://github.com/devbilalz/projects/tree/master/reflect-therapy-platform) - therapy practice-management: matching, billing, payouts, reporting (Rails)
 - [AISF Content Plugin](https://github.com/devbilalz/projects/tree/master/aisf-content-plugin) - content-subscription product with a ChatGPT plugin surface (FastAPI + Next.js)
 
-Plus AI labs, integrations, and experiments (transcript insights, Meta SAM UI, Zoom app, audio capture) - see [devbilalz/projects](https://github.com/devbilalz/projects).
+**Demos & utilities**
+
+- [Embeddable Message Widget](https://github.com/devbilalz/projects/tree/master/embeddable-message-widget) - framework-free, drop-in message widget (vanilla JS + Vite)
+- [Stream Chat Messenger](https://github.com/devbilalz/projects/tree/master/stream-chat-messenger) - customized Stream Chat messenger with bespoke UI components
+- [Stream Chat Team Example](https://github.com/devbilalz/projects/tree/master/stream-chat-team-example) - team-chat app: channels, threads, search (Stream Chat)
+- [AWS SAM Hello World](https://github.com/devbilalz/projects/tree/master/aws-sam-hello-world) - serverless starter (Lambda + API Gateway) via AWS SAM
+- [Git Contribution Generator](https://github.com/devbilalz/projects/tree/master/git-contribution-generator) - Node.js CLI experiment scripting dated git commits
+- [Git History Backfill](https://github.com/devbilalz/projects/tree/master/git-history-backfill) - Node.js experiment for schedule-driven backdated commits
 
 ### Personal Projects
 
